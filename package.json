@@ -15,7 +15,7 @@
     "font-awesome-svg-png": "./font-awesome-svg-png.js"
   },
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "request": "~2.33.0",
     "js-yaml": "~3.0.1",
     "async": "~0.2.10",
